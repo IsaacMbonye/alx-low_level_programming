@@ -4,15 +4,16 @@
  */
 int main(void)
 {
-       char putchar[] = "_putchar";
-       int i = 0;
+	char putchar[] = "_putchar";
+        int i = 0;
 
-       while (putchar[i] != '\0')
-       {
+        while (putchar[i] != '\0')
+        {
 		_putchar(putchar[i]);
 		i++;
-       }
-       _putchar('\n');
+        }
+ 	_putchar('\n');
 
-       return (0);
+        return (0);
+
 }
