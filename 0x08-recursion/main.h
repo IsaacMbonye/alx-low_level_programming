@@ -10,4 +10,5 @@ int is_palindrome(char *s);
 int wildcmp(char *s1, char *);
 int halp(int c, int i);
 int hai(int n, int d);
-
+int my_pal(char *s, int l);
+int get_length(char *s);
