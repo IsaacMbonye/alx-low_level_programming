@@ -1,0 +1,27 @@
+#include "main.h"
+#include <stddef.h>
+#include <stdio.h>
+#include <stdlib.h>
+
+/**
+ *
+ */
+char *create_array(unsigned int size, char c)
+{
+	int n;
+	char *create_array[n];
+
+	for (i = 0; i < sizeof(create_array); create_array[i])
+	{
+		if (sizeof(create_array) == 0)
+		{
+			return (NULL);
+		
+		}
+		return (*create_array);
+	}
+}
+
+
+
+
