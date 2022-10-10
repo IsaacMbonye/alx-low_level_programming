@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include "main.h"
+#include "dog.h"
 
 /**
  * main - check the code
@@ -16,4 +16,6 @@ int main(void)
 	print_dog(&my_dog);
 	return (0);
 }
+
+
 
